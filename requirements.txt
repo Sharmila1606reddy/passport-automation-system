@@ -6,3 +6,4 @@ easyocr==1.7.1
 Levenshtein==0.27.3
 Pillow>=10.2.0
 gunicorn==21.2.0
+numpy<2.0.0
